@@ -1,0 +1,58 @@
+H:\Unity Projects\first\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\Unity Projects\first\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Unity Projects\first\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Unity Projects\first\Temp\bin\Debug\UnityEditor.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.UI.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.VR.dll
+H:\Unity Projects\first\Temp\bin\Debug\Mono.Cecil.dll
+H:\Unity Projects\first\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\Unity Projects\first\Temp\bin\Debug\Unity.DataContract.dll
+H:\Unity Projects\first\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+H:\Unity Projects\first\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\Unity Projects\first\Temp\bin\Debug\Unity.CecilTools.dll
+H:\Unity Projects\first\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+H:\Unity Projects\first\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEditor.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.UI.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.Analytics.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\Unity Projects\first\Temp\bin\Debug\UnityEngine.VR.xml
+H:\Unity Projects\first\obj\Debug\Assembly-CSharp.dll
+H:\Unity Projects\first\obj\Debug\Assembly-CSharp.pdb
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEditor.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.UI.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.VR.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Mono.Cecil.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Unity.DataContract.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Unity.CecilTools.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEditor.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.UI.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.Analytics.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\Unity Projects\Ball Hunt\Temp\bin\Debug\UnityEngine.VR.xml
+H:\Unity Projects\Ball Hunt\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\Unity Projects\Ball Hunt\obj\Debug\Assembly-CSharp.dll
+H:\Unity Projects\Ball Hunt\obj\Debug\Assembly-CSharp.pdb

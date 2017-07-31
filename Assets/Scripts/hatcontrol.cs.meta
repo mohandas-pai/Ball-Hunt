@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1abad99807b774245a68813ef1da57bf
+timeCreated: 1484407687
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mExpNoise: {fileID: 8300000, guid: d52ba9b0a5e90fa4d9c312e0508a78bf, type: 3}
+  - mGulpNoise: {fileID: 8300000, guid: 6607123cd4b074e8990fe00be627c56f, type: 3}
+  - mScoreText: {instanceID: 0}
+  - mrestartButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
